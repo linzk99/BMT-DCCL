@@ -6,6 +6,10 @@ This repository provides the official code for replicating experiments from the 
 ## Requirements
 This repository is based on PyTorch 1.11.0, CUDA 11.7 and Python 3.8.18; All experiments in our paper were conducted on a single NVIDIA GeForce RTX 3090 GPU.
 
+Some important required packages include:
+- TensorBoardX
+- Some basic python packages such as Numpy, Scikit-image, SimpleITK, Scipy ......
+
 ## Usage
 1. Put the data in './BMT-DCCL/data';
 2. Train the model;
