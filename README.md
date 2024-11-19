@@ -1,4 +1,5 @@
 # Boundary-aware and Competitive Contrastive Learning for Semi-supervised Medical Image Segmentation
+
 This repository provides the official code for replicating experiments from the paper: **Boundary-aware and Competitive Contrastive Learning for Semi-supervised Medical Image Segmentation**
 
 ![]()
@@ -20,3 +21,4 @@ sh test.sh
 ```
 ## Acknowledgements:
 Our code is adapted from [SS-Net](https://github.com/ycwu1997/SS-Net) and [SSL4MIS](https://github.com/HiLab-git/SSL4MIS). Thanks for these authors for their valuable works and hope our model can promote the relevant research as well.
+
