@@ -1,6 +1,5 @@
-# Boundary-aware and Competitive Contrastive Learning for Semi-supervised Medical Image Segmentation
-
-This repository provides the official code for replicating experiments from the paper: **Boundary-aware and Competitive Contrastive Learning for Semi-supervised Medical Image Segmentation**
+# Enhancing Semi-supervised Medical Image Segmentation with Boundary Awareness and Competitive Contrastive Learning
+This repository provides the official code for replicating experiments from the paper: **Enhancing Semi-supervised Medical Image Segmentation with Boundary Awareness and Competitive Contrastive Learning**
 
 ![]()
 ## Requirements
